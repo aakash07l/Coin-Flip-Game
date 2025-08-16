@@ -1,18 +1,18 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjE3NjUyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4RGM1QmU0Mjg2MEZBRDQ3MTFlQTQ5Nzk4QzE2RDRmMjgwQUMxMzZGMyJ9",
-    "payload": "eyJkb21haW4iOiJmbGlwLXRvLWVhcm4udmVyY2VsLmFwcCJ9",
-    "signature": "MHgzYTc2ZDM3YTY2ZmQwMjU0YjQwZDcwNmU0NmY0NDY4NTZjM2QxNTQ4ZDg5OTczM2I5YzcyN2VkMDI5YmRjNmJkNmIxMzAyMWNmMjkzMDFjMDZjODU2ODE0YTU3YzlmM2MzYzMxOTNjOTRiNzE3MDAxNTdlMjUyZGU2YjMzNDg5YTFi"
+    "header": "eyJmaWQiOjIzNDYyMiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGMxMEEyNDVlNzhGQzI5RGI4ZWEzYjliZDJlYTM1ZUU2MmM3Y0M5OUEifQ",
+    "payload": "eyJkb21haW4iOiJjb2luLWZsaXAtZ2FtZS1yaG8udmVyY2VsLmFwcCJ9",
+    "signature": "MHhmM2IzOTJiYWFkNDk2MzMyNzYzNWFmOTFlZWMwNzg3OTAzZDJmNmU4OWUxODMwYjZkNmRjZTEzZjFlMzBjZWMzN2U2OWE0Y2E2YzZkMDNiYzVlY2RjNGUzNTBhNDM1NjJhMGEyZGFmYjhkOTg3M2IwOWQxYjZlNTM5OGIxOGNiMTFi"
   },
   "frame": {
     "version": "1",
-    "name": "FlipToEarn",
-    "iconUrl": "https://flip-to-earn.vercel.app/icon.png",
-    "homeUrl": "https://flip-to-earn.vercel.app",
-    "imageUrl": "https://flip-to-earn.vercel.app/image.png",
-    "buttonTitle": "Arbitrum Vs Base",
-    "splashImageUrl": "https://flip-to-earn.vercel.app/splash.png",
-    "splashBackgroundColor": "#111111",
-    "webhookUrl": "https://flip-to-earn.vercel.app/api/webhook"
+    "name": "Example Frame",
+    "iconUrl": "https://coin-flip-game-rho.vercel.app/icon.png",
+    "homeUrl": "https://coin-flip-game-rho.vercel.app",
+    "imageUrl": "https://coin-flip-game-rho.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://coin-flip-game-rho.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://coin-flip-game-rho.vercel.app/api/webhook"
   }
 }
