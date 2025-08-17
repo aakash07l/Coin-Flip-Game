@@ -6,7 +6,7 @@
   },
   "frame": {
     "version": "1",
-    "name": "Example Frame",
+    "name": "Coinflip Game",
     "iconUrl": "https://coin-flip-game-rho.vercel.app/icon.png",
     "homeUrl": "https://coin-flip-game-rho.vercel.app",
     "imageUrl": "https://coin-flip-game-rho.vercel.app/image.png",
